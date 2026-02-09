@@ -11,51 +11,21 @@ interface Pillar {
 const pillars: Pillar[] = [
     {
         id: "01",
-        title: "SOVEREIGN WEALTH FUND DESIGN",
-        icon: Database,
-        desc: "Engineering architectures that pre-monetize verified national resources into fiscal reserves."
+        title: "POLITICAL STRATEGY & CAMPAIGN DEVELOPMENT",
+        icon: Globe,
+        desc: "Comprehensive strategy and campaign development for visionary leadership"
     },
     {
         id: "02",
-        title: "GEOSPATIAL RESOURCE INTELLIGENCE",
-        icon: Globe,
-        desc: "Deploying AI/ML-driven 3D/4D mapping to identify reserves with 90% accuracy."
+        title: "POLICY FRAMEWORK DESIGN",
+        icon: Scale,
+        desc: "Stakeholder engagement and policy framework design for governance"
     },
     {
         id: "03",
-        title: "INFRASTRUCTURE STRATEGY",
+        title: "GOVERNANCE MODELS",
         icon: Building2,
-        desc: "Resource-Backed Infrastructure Bonds (RBIBs) to attract global investment without debt exposure."
-    },
-    {
-        id: "04",
-        title: "REGULATORY & FISCAL ADVISORY",
-        icon: Scale,
-        desc: "Designing robust legal and institutional frameworks for transparent, investable ecosystems."
-    },
-    {
-        id: "05",
-        title: "NATIONAL COMMODITY EXCHANGE",
-        icon: Ticket,
-        desc: "Creating vertically integrated industrial zones for in-country refining and value addition."
-    },
-    {
-        id: "06",
-        title: "BORDER SECURITY (RFID TECH)",
-        icon: Shield,
-        desc: "Next-gen border management integrating RFID monitoring and AI threat analytics."
-    },
-    {
-        id: "07",
-        title: "industrialized infrastructure",
-        icon: Factory,
-        desc: "A vertically integrated production ecosystem to catalyze local manufacturing and exports."
-    },
-    {
-        id: "08",
-        title: "FINANCIAL DIVERSIFICATION & MONETIZATION STRATEGIES FOR HEALTHCARE TOURISM",
-        icon: Stethoscope,
-        desc: "Healthcare tourism leverages diversified revenue through integrated medical care, wellness experiences, hospitality, and global patient services."
+        desc: "Governance models for stability, transparency, and regional cooperation"
     },
 ];
 
