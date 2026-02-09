@@ -14,13 +14,12 @@ export default function WealthCreation() {
             <div className="relative z-10 max-w-7xl mx-auto text-center">
                 <FadeIn>
                     <span className="text-gold-600 font-rajdhani tracking-[0.3em] text-xs uppercase mb-6 block font-bold">
-                        OUR CORE MISSION
+                        OUR MISSION
                     </span>
                     <h3 className="font-cinzel text-3xl md:text-5xl text-white max-w-5xl mx-auto leading-tight mb-8 uppercase">
-                        FROM EXTRACTIVE <br />
-                        <span className="text-gold-gradient">DEPENDENCY TO</span> <br />
+                        FROM EXTRACTIVE DEPENDENCY TO <br />
                         <span className="text-gold-gradient">RESOURCE-DRIVEN WEALTH</span> <br />
-                        CREATION
+                        <span className="text-gold-gradient">CREATION</span> <br />
                     </h3>
                     <div className="w-16 h-px bg-gold-500 mx-auto mb-12" />
                 </FadeIn>
@@ -29,40 +28,40 @@ export default function WealthCreation() {
                     <FadeIn delay={0.1}>
                         <div className="p-8 border border-white/5 bg-white/5 backdrop-blur-sm hover:border-gold-500/30 transition-colors h-full">
                             <h4 className="font-cinzel font-bold text-lg text-white mb-3 tracking-wide leading-tight uppercase">
-                                FIRST WORLD <br /> INDUSTRIALIZATION
+                                First World <br /> Industrialization
                             </h4>
                             <p className="text-gray-500 text-xs leading-relaxed font-inter uppercase tracking-wider">
-                                Catalyzing value-added production within African borders to reclaim the global export narrative.
+                                Transforming dormant potential into enduring national prosperity through advanced infrastructure.
                             </p>
                         </div>
                     </FadeIn>
                     <FadeIn delay={0.2}>
                         <div className="p-8 border border-white/5 bg-white/5 backdrop-blur-sm hover:border-gold-500/30 transition-colors h-full">
                             <h4 className="font-cinzel font-bold text-lg text-white mb-3 tracking-wide leading-tight uppercase">
-                                ECONOMIC <br /> SELF-RELIANCE
+                                ENERGY <br /> INDEPENDENCE
                             </h4>
                             <p className="text-gray-500 text-xs leading-relaxed font-inter uppercase tracking-wider">
-                                Transitioning from foreign aid paradigms to sovereign-led development and financial independence.
+                                Designing frameworks for secure, sustainable, and sovereign energy ecosystems.
                             </p>
                         </div>
                     </FadeIn>
                     <FadeIn delay={0.3}>
                         <div className="p-8 border border-white/5 bg-white/5 backdrop-blur-sm hover:border-gold-500/30 transition-colors h-full">
                             <h4 className="font-cinzel font-bold text-lg text-white mb-3 tracking-wide leading-tight uppercase">
-                                STRATEGIC <br /> PARTNERSHIPS
+                                SOVEREIGN <br /> WEALTH DESIGN
                             </h4>
                             <p className="text-gray-500 text-xs leading-relaxed font-inter uppercase tracking-wider">
-                                Orchestrating high-level alliances between nations and global venture capital.
+                                Creating fiscal reserves that stabilize economies and safeguard long-term prosperity.
                             </p>
                         </div>
                     </FadeIn>
                     <FadeIn delay={0.4}>
                         <div className="p-8 border border-white/5 bg-white/5 backdrop-blur-sm hover:border-gold-500/30 transition-colors h-full">
                             <h4 className="font-cinzel font-bold text-lg text-white mb-3 tracking-wide leading-tight uppercase">
-                                LEGACY <br /> ARCHITECTURE
+                                POLITICAL <br /> INTEGRITY
                             </h4>
                             <p className="text-gray-500 text-xs leading-relaxed font-inter uppercase tracking-wider">
-                                Building institutional frameworks that secure generational wealth for African citizenry.
+                                Fostering governance that drives stability, growth, and continental unity.
                             </p>
                         </div>
                     </FadeIn>

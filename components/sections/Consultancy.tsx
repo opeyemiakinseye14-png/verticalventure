@@ -24,9 +24,7 @@ export default function Consultancy() {
                             </h2>
                             <div className="w-12 h-px bg-gold-500 my-8"></div>
                             <p className="font-inter text-gray-400 text-sm md:text-base mb-8 leading-relaxed">
-                                Vertical Venture Consulting, LLC serves as the strategic architect for nations undergoing
-                                structural transformation. We provide elite-level advisory services that bridge the
-                                gap between political vision and economic reality.
+                                Vertical Venture Consulting, LLC operates as a strategic political consultancy supporting visionary governance across Africa. We partner with leaders and nations to design frameworks that drive sustainable development, democratic excellence, and continental unity.
                             </p>
                         </FadeIn>
                     </div>
@@ -34,17 +32,17 @@ export default function Consultancy() {
                     <div className="w-full md:w-1/2 grid grid-cols-1 gap-6">
                         <FadeIn delay={0.2}>
                             <div className="p-8 border border-white/5 bg-white/5 backdrop-blur-md">
-                                <h4 className="text-gold-500 font-cinzel text-lg mb-4 uppercase">Direct State Advisory</h4>
+                                <h4 className="text-gold-500 font-cinzel text-lg mb-4 uppercase">POLITICAL STRATEGY & CAMPAIGN DEVELOPMENT</h4>
                                 <p className="text-gray-500 text-xs leading-relaxed uppercase tracking-widest font-medium">
-                                    Advising heads of state on sovereign resource management and national modernization protocols.
+                                    Comprehensive strategy and campaign development for visionary leadership
                                 </p>
                             </div>
                         </FadeIn>
                         <FadeIn delay={0.4}>
                             <div className="p-8 border border-white/5 bg-white/5 backdrop-blur-md">
-                                <h4 className="text-gold-500 font-cinzel text-lg mb-4 uppercase">Structural Reform</h4>
+                                <h4 className="text-gold-500 font-cinzel text-lg mb-4 uppercase">POLICY FRAMEWORK DESIGN</h4>
                                 <p className="text-gray-500 text-xs leading-relaxed uppercase tracking-widest font-medium">
-                                    Designing institutional frameworks that eliminate extractive dependencies and foster local wealth.
+                                    Stakeholder engagement and policy framework design for governance
                                 </p>
                             </div>
                         </FadeIn>

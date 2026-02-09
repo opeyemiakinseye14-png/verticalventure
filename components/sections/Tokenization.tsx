@@ -22,13 +22,13 @@ export default function Tokenization() {
 
                         <FadeIn delay={0.2}>
                             <h2 className="font-cinzel text-3xl md:text-7xl text-white mb-8 drop-shadow-2xl">
+                                <span className="font-normal">THE</span> <span className="text-gold-500 font-bold">DIGITAL FUTURE</span><br />
                                 <span className="font-normal">THE</span> <span className="text-gold-500 font-bold">BLOCKCHAIN</span> <span className="font-normal">OF</span>
                                 <br />
                                 <span className="block mt-2 font-bold uppercase">AFRICAN TOKENIZATION™</span>
                             </h2>
                             <p className="font-inter text-gray-400 text-sm md:text-base max-w-xl leading-relaxed uppercase tracking-widest font-medium">
-                                Converting physical mass into digital value. Securing the future of
-                                resources on the global ledger.
+                                A unified digital economic ecosystem that connects resource discovery, infrastructural finance, and sovereign wealth design into a transparent, AI-guided financial architecture.
                             </p>
                         </FadeIn>
                     </div>

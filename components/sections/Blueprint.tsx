@@ -21,8 +21,7 @@ export default function Blueprint() {
                             BLUEPRINT
                         </h2>
                         <p className="font-inter text-gray-400 text-sm md:text-base leading-relaxed mb-8">
-                            We aren't just advising; we are co-creating the blueprint for the next century of
-                            African growth.
+                            Vertical Venture Consulting, LLC is constructing the strategic, financial, technological, and cultural architecture for Africa's transformation into a global powerhouse.
                         </p>
                     </FadeIn>
                 </div>
@@ -34,13 +33,15 @@ export default function Blueprint() {
                             <div className="absolute bottom-0 left-0 w-24 h-24 border-b border-l border-gold-500/40" />
 
                             <h4 className="font-cinzel text-gold-500 text-xl font-bold mb-6 tracking-widest uppercase">
-                                Juba Modernization Protocol
+                                Vision Pillars
                             </h4>
                             <p className="text-white/60 text-[10px] md:text-xs uppercase tracking-widest leading-loose font-medium">
-                                Phase 1: Resource Auditing & Digitization<br />
-                                Phase 2: Sovereign Wealth Architecture<br />
-                                Phase 3: Vertical Industrial Zones<br />
-                                Phase 4: National Tech Infrastructure
+                                TOKENIZED RESOURCES<br />
+                                SHARED PROSPERITY<br />
+                                INNOVATION-BACKED INFRASTRUCTURE<br />
+                                AI-DRIVEN INTELLIGENCE<br />
+                                INDUSTRIAL LEADERSHIP<br />
+                                CULTURAL ADVANTAGE
                             </p>
                         </div>
                     </FadeIn>

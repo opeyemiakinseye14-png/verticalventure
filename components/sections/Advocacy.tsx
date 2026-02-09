@@ -26,14 +26,10 @@ export default function Advocacy() {
 
                         <div className="space-y-8 font-inter text-gray-400 text-sm leading-relaxed max-w-2xl">
                             <p>
-                                Vertical Venture Consulting, LLC proudly presents a major cinematic work
-                                documenting the life of Bol Gai Deng, from surviving genocide and
-                                enslavement to emerging as a voice of continental leadership and human
-                                resilience.
+                                Vertical Venture Consulting, LLC proudly presents a major cinematic work documenting the life of Bol Gai Deng, from surviving genocide and enslavement to emerging as a voice of continental leadership and human resilience.
                             </p>
                             <p>
-                                More than a film—this is a global advocacy platform for Africa's
-                                renaissance, reclaiming a narrative of rebirth and sovereignty.
+                                More than a film—this is a global advocacy platform for Africa's renaissance, reclaiming a narrative of rebirth and sovereignty.
                             </p>
                         </div>
                         <FadeIn delay={0.6}>

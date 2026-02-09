@@ -16,15 +16,15 @@ export default function Hero() {
             <div className="relative z-20 text-center px-8 max-w-7xl mx-auto">
                 <FadeIn>
                     <h1 className="font-cinzel font-bold text-4xl md:text-8xl leading-tight tracking-wider drop-shadow-2xl text-white mb-6">
-                        <span className="block mb-3 uppercase">DEFINING A NEW ERA</span>
-                        <span className="block text-3xl md:text-6xl my-2 uppercase">OF</span>
+                        <span className="block mb-3 uppercase">DEFINING A NEW ERA OF</span>
+                        <span className="block text-3xl md:text-6xl my-2 uppercase"></span>
                         <span className="text-gold-500 block uppercase">AFRICAN SOVEREIGNTY</span>
                     </h1>
 
                     <div className="w-24 h-px bg-gold-500 mx-auto mb-8" />
 
                     <p className="font-rajdhani text-lg md:text-2xl text-white/80 tracking-[0.2em] font-light max-w-4xl mx-auto leading-relaxed uppercase">
-                        Vertical Venture Consulting, LLC: From Extractive Dependency to Resource-Driven Wealth Creation
+                        Infrastructural Strategists: Pioneering First-World Industrialization, Energy Independence, and Financial Prosperity for Africa.
                     </p>
                 </FadeIn>
             </div>
