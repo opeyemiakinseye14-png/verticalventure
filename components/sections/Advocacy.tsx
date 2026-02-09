@@ -19,7 +19,9 @@ export default function Advocacy() {
                             MEDIA & LEADERSHIP
                         </span>
                         <h2 className="font-cinzel text-3xl md:text-5xl text-white mb-20 leading-tight">
-                            <span className="font-bold uppercase">SLAVE TO FREEDOM: A GLOBAL</span>
+                            <span className="font-bold uppercase">SLAVE TO FREEDOM: A</span>
+                            <br />
+                            <span className="font-bold uppercase">GLOBAL</span>
                             <br />
                             <span className="text-gold-500 font-bold block mt-4 uppercase">ADVOCACY PLATFORM</span>
                         </h2>
@@ -80,7 +82,7 @@ export default function Advocacy() {
                     <FadeIn delay={0.5}>
                         <div className="border-l border-gold-900/40 pl-6">
                             <span className="text-gold-600 font-rajdhani tracking-[0.2em] text-[10px] uppercase mb-2 block font-bold">
-                                DIRECTOR, HOLLYWOOD EAST STUDIO
+                                DIRECTOR, HOLLYWOOD EAST ST STUDIO
                             </span>
                             <h3 className="font-cinzel text-xl text-white font-bold tracking-wide">
                                 GREG AMIKER

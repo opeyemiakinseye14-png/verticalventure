@@ -22,6 +22,9 @@ export default function WealthCreation() {
                         <span className="text-gold-gradient">CREATION</span> <br />
                     </h3>
                     <div className="w-16 h-px bg-gold-500 mx-auto mb-12" />
+                    <p className="font-inter text-gray-400 text-sm md:text-base mb-8 leading-relaxed max-w-4xl mx-auto">
+                        Vertical Venture Consulting, LLC partners with visionary African nations to design and implement frameworks that will drive first-world industrialization. Our work is guided by a singular vision: to enable African nations to rise to a new paradigm of resource-driven wealth creation, powered by African ingenuity and technological sovereignty.
+                    </p>
                 </FadeIn>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-20">

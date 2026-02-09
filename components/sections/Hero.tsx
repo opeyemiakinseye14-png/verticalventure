@@ -17,7 +17,6 @@ export default function Hero() {
                 <FadeIn>
                     <h1 className="font-cinzel font-bold text-4xl md:text-8xl leading-tight tracking-wider drop-shadow-2xl text-white mb-6">
                         <span className="block mb-3 uppercase">DEFINING A NEW ERA OF</span>
-                        <span className="block text-3xl md:text-6xl my-2 uppercase"></span>
                         <span className="text-gold-500 block uppercase">AFRICAN SOVEREIGNTY</span>
                     </h1>
 

@@ -46,7 +46,7 @@ export default function EightPillars() {
                             STRATEGIC ADVISORY
                         </span>
                         <h2 className="font-cinzel text-3xl md:text-5xl text-white uppercase leading-tight">
-                            EIGHT PILLARS OF <br /><span className="text-gold-gradient">SOVEREIGNTY</span>
+                            STRATEGIC <br /><span className="text-gold-gradient">ADVISORY</span>
                         </h2>
                     </FadeIn>
                 </div>

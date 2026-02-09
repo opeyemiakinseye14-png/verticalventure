@@ -22,14 +22,32 @@ export default function Tokenization() {
 
                         <FadeIn delay={0.2}>
                             <h2 className="font-cinzel text-3xl md:text-7xl text-white mb-8 drop-shadow-2xl">
-                                <span className="font-normal">THE</span> <span className="text-gold-500 font-bold">DIGITAL FUTURE</span><br />
                                 <span className="font-normal">THE</span> <span className="text-gold-500 font-bold">BLOCKCHAIN</span> <span className="font-normal">OF</span>
                                 <br />
                                 <span className="block mt-2 font-bold uppercase">AFRICAN TOKENIZATION™</span>
                             </h2>
-                            <p className="font-inter text-gray-400 text-sm md:text-base max-w-xl leading-relaxed uppercase tracking-widest font-medium">
+                            <p className="font-inter text-gray-400 text-sm md:text-base max-w-xl leading-relaxed uppercase tracking-widest font-medium mb-8">
                                 A unified digital economic ecosystem that connects resource discovery, infrastructural finance, and sovereign wealth design into a transparent, AI-guided financial architecture.
                             </p>
+
+                            <div className="space-y-6">
+                                <div>
+                                    <h4 className="text-gold-500 font-cinzel text-lg mb-2 uppercase">ASSET TOKENIZATION</h4>
+                                    <p className="text-gray-500 text-xs leading-relaxed">Converting natural resources and national assets into blockchain-based tokens for transparent ownership and trading.</p>
+                                </div>
+                                <div>
+                                    <h4 className="text-gold-500 font-cinzel text-lg mb-2 uppercase">SOVEREIGN CUSTODY</h4>
+                                    <p className="text-gray-500 text-xs leading-relaxed">Self-custodial solutions ensuring African nations maintain full control over their digital assets.</p>
+                                </div>
+                                <div>
+                                    <h4 className="text-gold-500 font-cinzel text-lg mb-2 uppercase">RESOURCE-BACKED CURRENCY</h4>
+                                    <p className="text-gray-500 text-xs leading-relaxed">Creating stable currencies backed by tangible African resources rather than external debt.</p>
+                                </div>
+                                <div>
+                                    <h4 className="text-gold-500 font-cinzel text-lg mb-2 uppercase">PAN-AFRICAN EXCHANGE</h4>
+                                    <p className="text-gray-500 text-xs leading-relaxed">Decentralized trading platforms enabling direct trade between African nations without intermediaries.</p>
+                                </div>
+                            </div>
                         </FadeIn>
                     </div>
 
