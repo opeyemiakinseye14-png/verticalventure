@@ -2,7 +2,7 @@ import FadeIn from "@/components/FadeIn";
 
 export default function WealthCreation() {
     return (
-        <section className="relative w-full py-32 px-8 bg-black overflow-hidden border-b border-white/5">
+        <section id="about" className="relative w-full py-32 px-8 bg-black overflow-hidden border-b border-white/5">
             <div className="absolute inset-0 z-0 opacity-10">
                 <img
                     src="images/geometric_bg.png"

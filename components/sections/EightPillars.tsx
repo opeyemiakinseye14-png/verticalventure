@@ -61,7 +61,7 @@ const pillars: Pillar[] = [
 
 export default function EightPillars() {
     return (
-        <section className="relative w-full py-24 px-8 bg-black overflow-hidden">
+        <section id="pillars" className="relative w-full py-24 px-8 bg-black overflow-hidden">
             <div className="absolute inset-0 z-0 opacity-[0.05]">
                 <img
                     src="images/geometric_bg.png"

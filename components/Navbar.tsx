@@ -46,9 +46,9 @@ export default function Navbar() {
     const closeMenu = () => setIsMenuOpen(false);
 
     const navLinks = [
-        { href: "#", label: "ABOUT" },
-        { href: "#", label: "PILLARS" },
-        { href: "#", label: "CONTACT" },
+        { href: "#about", label: "ABOUT" },
+        { href: "#pillars", label: "PILLARS" },
+        { href: "#contact", label: "CONTACT" },
     ];
 
     return (

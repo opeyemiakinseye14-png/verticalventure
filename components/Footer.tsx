@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Footer() {
     return (
-        <footer id="footer" className="w-full bg-black pt-24 pb-8 px-8 border-t border-white/5 font-inter">
+        <footer id="contact" className="w-full bg-black pt-24 pb-8 px-8 border-t border-white/5 font-inter">
             <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-12 gap-12 mb-20">
 
                 {/* Column 1: Brand & Leadership */}
