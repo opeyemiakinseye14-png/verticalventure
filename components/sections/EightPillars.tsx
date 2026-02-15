@@ -11,21 +11,51 @@ interface Pillar {
 const pillars: Pillar[] = [
     {
         id: "01",
-        title: "POLITICAL STRATEGY & CAMPAIGN DEVELOPMENT",
-        icon: Globe,
-        desc: "Comprehensive strategy and campaign development for visionary leadership"
+        title: "SOVEREIGN WEALTH FUND DESIGN",
+        icon: Database,
+        desc: "Engineering architectures that pre-monetize verified national resources into fiscal reserves."
     },
     {
         id: "02",
-        title: "POLICY FRAMEWORK DESIGN",
-        icon: Scale,
-        desc: "Stakeholder engagement and policy framework design for governance"
+        title: "GEOSPATIAL RESOURCE INTELLIGENCE",
+        icon: Globe,
+        desc: "Deploying AI/ML-driven 3D/4D mapping to identify reserves with 90% accuracy."
     },
     {
         id: "03",
-        title: "GOVERNANCE MODELS",
+        title: "INFRASTRUCTURE STRATEGY",
         icon: Building2,
-        desc: "Governance models for stability, transparency, and regional cooperation"
+        desc: "Resource-Backed Infrastructure Bonds (RBIBs) to attract global investment without debt exposure."
+    },
+    {
+        id: "04",
+        title: "REGULATORY & FISCAL ADVISORY",
+        icon: Scale,
+        desc: "Designing robust legal and institutional frameworks for transparent, investable ecosystems."
+    },
+    {
+        id: "05",
+        title: "NATIONAL COMMODITY EXCHANGE",
+        icon: Ticket,
+        desc: "Creating vertically integrated industrial zones for in-country refining and value addition."
+    },
+    {
+        id: "06",
+        title: "BORDER SECURITY (RFID TECH)",
+        icon: Shield,
+        desc: "Next-gen border management integrating RFID monitoring and AI threat analytics."
+    },
+    {
+        id: "07",
+        title: "INDUSTRIALIZATION INFRASTRUCTURE",
+        icon: Factory,
+        desc: "A vertically integrated production ecosystem to catalyze local manufacturing and exports."
+    },
+    {
+        id: "08",
+        title: "FINANCIAL DIVERSIFICATION & MONETIZATION STRATEGIES FOR HEALTHCARE TOURISM",
+        icon: Stethoscope,
+        desc: "Healthcare tourism leverages diversified revenue through integrated medical care, wellness experiences, hospitality, and global patient services."
     },
 ];
 
@@ -46,7 +76,7 @@ export default function EightPillars() {
                             STRATEGIC ADVISORY
                         </span>
                         <h2 className="font-cinzel text-3xl md:text-5xl text-white uppercase leading-tight">
-                            STRATEGIC <br /><span className="text-gold-gradient">ADVISORY</span>
+                            EIGHT PILLARS OF <br /><span className="text-gold-gradient">SOVEREIGNTY</span>
                         </h2>
                     </FadeIn>
                 </div>
