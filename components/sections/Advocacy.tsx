@@ -19,11 +19,8 @@ export default function Advocacy() {
                             MEDIA & LEADERSHIP
                         </span>
                         <h2 className="font-cinzel text-3xl md:text-5xl text-white mb-20 leading-tight">
-                            <span className="font-bold uppercase">SLAVE TO FREEDOM: A</span>
-                            <br />
-                            <span className="font-bold uppercase">GLOBAL</span>
-                            <br />
-                            <span className="text-gold-500 font-bold block mt-4 uppercase">ADVOCACY PLATFORM</span>
+                            <span className="font-bold uppercase">Slave to Freedom:</span><br />
+                            <span className="text-gold-500 font-bold block mt-4 uppercase">A Global Advocacy Platform</span>
                         </h2>
 
                         <div className="space-y-8 font-inter text-gray-400 text-sm leading-relaxed max-w-2xl">

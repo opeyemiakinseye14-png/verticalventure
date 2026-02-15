@@ -35,9 +35,6 @@ export default function Blueprint() {
                 <div className="w-full md:w-1/2">
                     <FadeIn delay={0.3}>
                         <div className="relative p-12 border border-gold-500/20 bg-gradient-to-br from-gold-500/5 to-transparent">
-                            <div className="absolute top-0 right-0 w-24 h-24 border-t border-r border-gold-500/40" />
-                            <div className="absolute bottom-0 left-0 w-24 h-24 border-b border-l border-gold-500/40" />
-
                             <h4 className="font-cinzel text-gold-500 text-xl font-bold mb-6 tracking-widest uppercase">
                                 Vision Pillars
                             </h4>
