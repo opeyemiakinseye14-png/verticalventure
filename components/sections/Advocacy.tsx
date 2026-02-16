@@ -20,7 +20,10 @@ export default function Advocacy() {
                         </span>
                         <h2 className="font-cinzel text-3xl md:text-5xl text-white mb-20 leading-tight">
                             <span className="font-bold normal-case block">Slave to Freedom:</span>
-                            <span className="text-gold-500 font-bold normal-case mt-4 block whitespace-nowrap overflow-x-auto">A Global Advocacy Platform</span>
+                            <span className="media-title text-gold-500 font-bold normal-case mt-4 block">
+                                <span className="block md:inline">A Global Advocacy</span>
+                                <span className="block md:inline"> Platform</span>
+                            </span>
                         </h2>
 
                         <div className="space-y-8 font-inter text-gray-400 text-sm leading-relaxed max-w-2xl">
